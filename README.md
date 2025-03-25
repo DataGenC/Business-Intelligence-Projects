@@ -10,7 +10,7 @@ Dataset Link : [Download the Dataset](Dataset/insurance_data.xlsx)
   
 #### Dashboard Screenshot
    
-![Dashboard](Insurance_BI_Project/Insurance_Data_Dashboard.png)
+![Dashboard](Insurance_BI_Project/Insurance_data_Dashboard.png)
 
 # Project2
 Dataset Link :  https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset
