@@ -3,14 +3,14 @@ This repository is for my personal BI Projects. All the projects here  made  sol
 
 # Project1
 ### Insurance Finance Analysis Dashboard
-Dataset Link : [Download the Dataset](Dataset\insurance_data.xlsx)
+Dataset Link : [Download the Dataset](Dataset/insurance_data.xlsx)
 
 
    Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMzM3Y2FmZTItMzg3Mi00MzBlLWFlY2MtMDViMTE0ZDI1ZjIxIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
   
 #### Dashboard Screenshot
    
-![Dashboard](Insurance_BI_Project\Insurance_Data_Dashboard.png)
+![Dashboard](Insurance_BI_Project/Insurance_Data_Dashboard.png)
 
 # Project2
 Dataset Link :  https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset
@@ -19,5 +19,5 @@ Dashboard Link: https://public.tableau.com/views/Zomato_Operations_Analytics/Das
   
 #### Dashboard Screenshot
    
-![Dashboard Preview](Zomato_Operations_BI_Project\Zomato_Delivery_Analysis.png)
+![Dashboard Preview](Zomato_Operations_BI_Project/Zomato_Delivery_Analysis.png)
 
